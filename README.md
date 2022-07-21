@@ -3,6 +3,9 @@
 - 글자 가운데 정렬할때 margin속성은 사용하지 않아야 한다.
 - (모를시 구글검색)
 
+![과제 1](https://user-images.githubusercontent.com/71883310/180114805-105aaa18-5b66-43e0-81b7-ef621d7957d9.png)
+
+
 ### 제출방법
 - 폴더 이름은 (과제2-홍길동) index.html, css폴더 
 - css폴더에는 common.css파일 있어야한다.
